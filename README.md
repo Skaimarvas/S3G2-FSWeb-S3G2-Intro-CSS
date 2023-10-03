@@ -33,22 +33,22 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
 
 - [x] CSS stylesheet dosyanızı `index.html` dosyasına linkleyin
 - [x] Verilen görüntüyü elde etmek için HTML etiketlerinizi semantik(anlamsal) olarak ekleyin
-- [ ] Menü elemanlarını ve footer(altbar)'ı arkaplanlarını(background) renklendirmek için verilen renk kodlarını kullanın:
-  - [ ] Gezinizi Planlayın: `#FF764E`
-  - [ ] Bilgi Edinin: `#5ED3EB`
-  - [ ] Karşılaştırın: `#FFCD69`
-- [ ] Yazı renkleri ve fontlar:
-  - [ ] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
-  - [ ] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
-- [ ] Ana metnin arka plan rengi: `#DDB9A3`
+- [x] Menü elemanlarını ve footer(altbar)'ı arkaplanlarını(background) renklendirmek için verilen renk kodlarını kullanın:
+  - [x] Gezinizi Planlayın: `#FF764E`
+  - [x] Bilgi Edinin: `#5ED3EB`
+  - [x] Karşılaştırın: `#FFCD69`
+- [x] Yazı renkleri ve fontlar:
+  - [x] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
+  - [x] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
+- [x] Ana metnin arka plan rengi: `#DDB9A3`
 - [ ] Footer'ın arka plan rengi: `#F9E7DC`
 - [ ] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
 - [ ] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
-  - [ ] Headerde bir yuvarlak resim (image)
-  - [ ] Footer ve menü elemanlarında yuvarlak köşeler
-  - [ ] Başlık(header) resmi ve hizalı text
-  - [ ] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler
-  - [ ] Footer resmi pozisyonu
+  - [x] Headerde bir yuvarlak resim (image)
+  - [x] Footer ve menü elemanlarında yuvarlak köşeler
+  - [x] Başlık(header) resmi ve hizalı text
+  - [x] Ortalanmış içerikler, marginler ve içeriklerin etrafındaki marginler
+  - [x] Footer resmi pozisyonu
 
 **Tasarımınız boyunca statik öğelerden kaçının (pikseller) Mümkün olduğunca responsive öğeler kullanın.**
 

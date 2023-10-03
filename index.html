@@ -9,36 +9,43 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap"
       rel="stylesheet"
     />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
     <link
-      href="https://fonts.googleapis.com/css2?family=Lato&family=Roboto+Mono:wght@100&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap"
       rel="stylesheet"
     />
   </head>
 
   <body>
-    <div class="container">
-      <header>
+    <header>
+      <div class="container">
         <nav>
-          <ul>
-            <li><a href="">Gezinizi Planlayın</a></li>
-            <li><a href="">Bilgi Edinin</a></li>
-            <li><a href="">Karşılaştırın</a></li>
+          <ul class="nav-bar">
+            <li class="nav-bar-item-1"><a href="#">Gezinizi Planlayın</a></li>
+
+            <li class="nav-bar-item-2"><a href="#">Bilgi Edinin</a></li>
+
+            <li class="nav-bar-item-3"><a href="#">Karşılaştırın</a></li>
           </ul>
         </nav>
-        <img src="/assets/header_img.jpg" alt="" />
-
-        <h1>Peri Bacaları Tanıtımı</h1>
-        <p>Gelin ve Nevşehir'in gizli güzelliklerini keşfedin. Sürekli açık.</p>
-        <p>Ziyaret için rezervasyona gerek yoktur.</p>
+      </div>
+      <div class="container tanitim">
+        <div class="col-2 sol">
+          <img class="header-img" src="/assets/header_img.jpg" alt="" />
+        </div>
+        <div class="col-2 sag">
+          <h1>Peri Bacaları Tanıtımı</h1>
+          <p>Gelin ve Nevşehir'in gizli güzelliklerini keşfedin.</p>
+          <p>Sürekli açık. Ziyaret için rezervasyona gerek yoktur.</p>
+        </div>
 
         <!-- "header_img.jpg" -->
-      </header>
-    </div>
+      </div>
+    </header>
+
     <main>
       <div class="container">
         <div id="hakkımızda">
@@ -57,18 +64,18 @@
           </p>
         </div>
         <div class="content">
-          <img src="/assets/hot-air-balloon.svg" alt="" />
+          <img class="icon" src="/assets/hot-air-balloon.svg" alt="" />
           <!--  "hot-air-balloon.svg" -->
-          <p>
+          <p class="content-text">
             Kapadokya denilince akla ilk gelen şeylerden birisi de şüphesiz
             sıcak hava balonları ile yapılan turlar. Her sabah gün doğumundan
             önce yüzlerce sıcak hava balonlarından oluşan konvoy ile
             Kapadokya’nın eşsiz güzellikteki manzaralarını havadan izlemek
             katılımcılar için gerçekten olağanüstü ve rüya gibi bir deneyim.
           </p>
-          <img src="/assets/atv.svg" alt="" />
+          <img class="icon" src="/assets/atv.svg" alt="" />
           <!--  "atv.svg" -->
-          <p>
+          <p class="content-text">
             ATV turları, Kapadokya’yı gezmenin heyecan verici, eğlenceli ve
             farklı bir yoludur. Bölgenin eşsiz ve muhteşem vadileri, dünyanın en
             iyi ATV turlarından birini deneyimlemenize fırsat verir. ATV
@@ -80,12 +87,15 @@
     <footer>
       <!-- "footer_img.png" -->
 
+      <div id="img-footer"></div>
       <div class="container">
         <nav>
-          <ul>
-            <li><a href="">Gezinizi Planlayın</a></li>
-            <li><a href="">Bilgi Edinin</a></li>
-            <li><a href="">Karşılaştırın</a></li>
+          <ul class="nav-bar">
+            <li class="nav-bar-item-1">
+              <a href="#">Gezinizi Planlayın</a>
+            </li>
+            <li class="nav-bar-item-2"><a href="#">Bilgi Edinin</a></li>
+            <li class="nav-bar-item-3"><a href="#">Karşılaştırın</a></li>
           </ul>
         </nav>
       </div>
