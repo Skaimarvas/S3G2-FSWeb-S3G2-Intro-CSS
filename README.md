@@ -41,9 +41,9 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
   - [x] Peri Bacaları Tanıtımı fontunun adı Chelsea Market'tir ve şu linkten ulaşılabilir [google fonts](https://fonts.google.com/specimen/Chelsea+Market)
   - [x] Diğer tüm fontlar Roboto Mono'dur ve şuradan ulaşılabilir [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
 - [x] Ana metnin arka plan rengi: `#DDB9A3`
-- [ ] Footer'ın arka plan rengi: `#F9E7DC`
-- [ ] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
-- [ ] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
+- [x] Footer'ın arka plan rengi: `#F9E7DC`
+- [x] "olağanüstü ve rüya gibi bir deneyim." ve "dünyanın en iyi ATV turlarından birini" kelime öbeklerini bold yapın.
+- [x] Dizayn sayfasındaki sonucu yakalamak için Box model özelliklerini uygulayın (content, padding, margin, and border). En az şunları içermelidir:
   - [x] Headerde bir yuvarlak resim (image)
   - [x] Footer ve menü elemanlarında yuvarlak köşeler
   - [x] Başlık(header) resmi ve hizalı text
@@ -58,6 +58,6 @@ Repository'niz hazır olunca verilen dizayn göze alınarak bugün öğrendiğin
 
 Aşağıdakileri uygulayın.
 
-- [ ] CSS animasyonları ekleyin (hover, mouseover, etc.)
-- [ ] `Gezinizi Planlayın`, `Bilgi Edinin`, ve `Karşılaştırın` sayfaları için kendi tasarımlarınızı yapın ve çalıştırın
+- [x] CSS animasyonları ekleyin (hover, mouseover, etc.)
+- [x] `Gezinizi Planlayın`, `Bilgi Edinin`, ve `Karşılaştırın` sayfaları için kendi tasarımlarınızı yapın ve çalıştırın
 - [ ] [favicon.io](https://favicon.io/favicon-converter/) sitesini kullanarak atv ve balon ikonlarını favicon'a dönüştürüp sayfaya ekleyin.
