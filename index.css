@@ -1,0 +1,15 @@
+h1 {
+  font-family: "Chelsea Market", cursive;
+  font-weight: bolder;
+}
+
+p {
+  font-family: "Roboto Mono", monospace;
+  font-weight: bolder;
+}
+
+.container {
+  /* width: 90%; */
+  width: 1800px;
+  margin: 0 auto;
+}
